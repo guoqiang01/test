@@ -29,7 +29,7 @@
 #define __CIO_H
 
 typedef bool (*CIO_METHOD) (void *);
-
+ 
 typedef struct {
     UINT8 *set;
     UINT8 *pos;
