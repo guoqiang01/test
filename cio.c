@@ -33,7 +33,7 @@
 /*
  * flush input and output of compress IO.
  */
-
+  
 bool
 flush_cin_buffer(void *cio)
 {
