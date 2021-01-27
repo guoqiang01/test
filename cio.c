@@ -65,7 +65,7 @@ flush_cout_buffer(void *cio)
 /*
  * init memory manager.
  */
-
+  
 void
 init_mem(compress_io *cio,
          FILE *in_fp, int in_size, FILE *out_fp, int out_size)
