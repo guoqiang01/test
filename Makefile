@@ -1,5 +1,5 @@
 MAKE = mingw32-make
-CC = gcc
+CC = gcc 
 
 OBJECTS = cio.o cmarker.o fdctflt.o rdbmp.o cjpeg.o
 
