@@ -37,7 +37,7 @@ typedef struct {
     CIO_METHOD flush_buffer;
     FILE *fp;
 } mem_mgr;
-
+  
 typedef struct {
     mem_mgr *in;
     mem_mgr *out;
