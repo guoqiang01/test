@@ -24,7 +24,7 @@
  * @version 1.0.0
  * @date 2009-11-23 10:44:30
  */
-
+ 
 #include <string.h>
 #include "cjpeg.h"
 #include "cio.h"
