@@ -1,5 +1,5 @@
 MAKE = mingw32-make
-CC = /home/fuzzer/afl-fuzz/afl-clang 
+CC = gcc
  
 OBJECTS = cio.o cmarker.o fdctflt.o rdbmp.o cjpeg.o
 
